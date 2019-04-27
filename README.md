@@ -1,2 +1,2 @@
 # anam
-anam github
+anam github for git commands demonstration
